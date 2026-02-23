@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "keekyslusus/youtube_stub_preview",
+    "name": "YouTube Stub Preview",
+    "description": "Temporary stub for popup preview",
+    "author": "keekyslusus",
+    "gist_id": "86c3cc3279b748c60e6d7db05e16a769",
+    "gist_url": "https://gist.github.com/keekyslusus/86c3cc3279b748c60e6d7db05e16a769",
+    "entry": "main.clown",
+    "domains": [
+      "youtube.com"
+    ],
+    "permissions": [
+      "inject"
+    ],
+    "files": [
+      "main.clown"
+    ],
+    "hashes": {
+      "main.clown": "sha256:6fcb0d53cc3b12c8c5304351699bb56e726151d80f1b9a9085f3373facf61742",
+      "__compiled.js": "sha256:9518fc57ec3dc2f9c4d1cc45ff6aa18282d484591ae679d0b3f244035fae01b5"
+    },
+    "signature": "lDxHMw1OkREHwTIKBmYUZZcp1wts/Hg0+LE/ybz5T15P38NmZx1yzgOiqjCvs8SrP8BKi3nppOotdNppupJ4rQ==",
+    "key_version": 1,
+    "signed_at": 1771852481,
+    "audit": "PASSED",
+    "status": "active",
+    "version": "1.0.0",
+    "last_updated": "2026-02-23",
+    "reports": 0
+  }
+]
