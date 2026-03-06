@@ -29,5 +29,35 @@
     "last_updated": "2026-02-23",
     "reports": 0,
     "installs": 15
+  },
+  {
+    "id": "vibeclownbot/fix_thumbnails",
+    "name": "Fix Thumbnails",
+    "description": "Normalize YouTube thumbs",
+    "author": "vibeclownbot",
+    "gist_id": "ae7d321eecd6561724f7e82ebc7bf79a",
+    "gist_url": "https://gist.github.com/vibeclownbot/ae7d321eecd6561724f7e82ebc7bf79a",
+    "entry": "main.clown",
+    "domains": [
+      "youtube.com"
+    ],
+    "permissions": [
+      "inject"
+    ],
+    "files": [
+      "main.clown"
+    ],
+    "hashes": {
+      "main.clown": "sha256:957e13c0732e48fd5496f935894dc93a9da7dcd5eb8ffea52646fdf178cda1d1",
+      "__compiled.js": "sha256:3781f94ea812bb33437de9049e04bc3af41a0e7397164b057379c08c3b0ac489"
+    },
+    "signature": "Ubs9GUbzHXA1jQNo7CujriX6sS4TkhjrhP8TLtP43ftzVgxjV0AmsACJCJcna6swRw/4dMHDyilHNoVvpcy6SA==",
+    "key_version": 1,
+    "signed_at": 1772787529,
+    "audit": "PASSED",
+    "status": "active",
+    "version": "1.0.0",
+    "last_updated": "2026-03-06",
+    "reports": 0
   }
 ]
