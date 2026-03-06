@@ -4,5 +4,11 @@
     "domain": "youtube.com",
     "status": "active",
     "reports": 0
+  },
+  {
+    "id": "keekyslusus/yt_searchbox_anim",
+    "domain": "youtube.com",
+    "status": "active",
+    "reports": 0
   }
 ]
