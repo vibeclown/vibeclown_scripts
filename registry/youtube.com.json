@@ -31,6 +31,36 @@
     "installs": 15
   },
   {
+    "id": "keekyslusus/yt_searchbox_anim",
+    "name": "yt-searchbox-anim",
+    "description": "search box animation",
+    "author": "keekyslusus",
+    "gist_id": "274e7a6573c8bf1d44b53896f9507172",
+    "gist_url": "https://gist.github.com/keekyslusus/274e7a6573c8bf1d44b53896f9507172",
+    "entry": "main.clown",
+    "domains": [
+      "youtube.com"
+    ],
+    "permissions": [
+      "inject"
+    ],
+    "files": [
+      "main.clown"
+    ],
+    "hashes": {
+      "main.clown": "sha256:5a5cae6cde835ae3d7f01c4dd8e9409c7f3fd4a157343d221bbf5e66d43081f6",
+      "meta.toml": "sha256:47aeb4fd66eb25e60138357374f5e7c7611d3a8d9cfef4846f2ea4f17a4e199c"
+    },
+    "signature": "GptnOp5ooGUkmc0CltElQwYSQ1hzCC9u68MptwwNK028jttG+0Ra+uM9wBSQSFm2JIqGK8xgr00gOg5AMzEDnQ==",
+    "key_version": 1,
+    "signed_at": 1772821374,
+    "audit": "PASSED",
+    "status": "active",
+    "version": "1.0.0",
+    "last_updated": "2026-03-06",
+    "reports": 0
+  },
+  {
     "id": "vibeclownbot/fix_thumbnails",
     "name": "Fix Thumbnails",
     "description": "Normalize YouTube thumbs",
