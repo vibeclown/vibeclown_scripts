@@ -31,6 +31,36 @@
     "installs": 15
   },
   {
+    "id": "pookyskeekys/fix_thumbnails",
+    "name": "Fix Thumbnails",
+    "description": "Normalize YouTube thumbs",
+    "author": "pookyskeekys",
+    "gist_id": "e999ca300b5491dc067892b0b1cfbb1c",
+    "gist_url": "https://gist.github.com/vibeclownbot/e999ca300b5491dc067892b0b1cfbb1c",
+    "entry": "main.clown",
+    "domains": [
+      "youtube.com"
+    ],
+    "permissions": [
+      "inject"
+    ],
+    "files": [
+      "main.clown"
+    ],
+    "hashes": {
+      "main.clown": "sha256:957e13c0732e48fd5496f935894dc93a9da7dcd5eb8ffea52646fdf178cda1d1",
+      "__compiled.js": "sha256:3781f94ea812bb33437de9049e04bc3af41a0e7397164b057379c08c3b0ac489"
+    },
+    "signature": "IkNnjewM6Eub1cFHWn9ZEJkM8il9wcC9iKRcz1UpJiDyaPAIYapMJjRsEP5nt2TgsFmCsSeUskItb6De1PS7Ew==",
+    "key_version": 1,
+    "signed_at": 1772788100,
+    "audit": "PASSED",
+    "status": "active",
+    "version": "1.0.0",
+    "last_updated": "2026-03-06",
+    "reports": 0
+  },
+  {
     "id": "vibeclownbot/fix_thumbnails",
     "name": "Fix Thumbnails",
     "description": "Normalize YouTube thumbs",
