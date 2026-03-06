@@ -33,7 +33,7 @@
   {
     "id": "pookyskeekys/fix_thumbnails",
     "name": "Fix Thumbnails",
-    "description": "Normalize YouTube thumbs",
+    "description": "Normalize YouTube thumbs (republish test)",
     "author": "pookyskeekys",
     "gist_id": "5657daa6e7db3dd11c1db6298dd60f0e",
     "gist_url": "https://gist.github.com/pookyskeekys/5657daa6e7db3dd11c1db6298dd60f0e",
@@ -48,15 +48,15 @@
       "main.clown"
     ],
     "hashes": {
-      "main.clown": "sha256:957e13c0732e48fd5496f935894dc93a9da7dcd5eb8ffea52646fdf178cda1d1",
-      "meta.toml": "sha256:18c8993da3083a01fa7fde7184538d91abde878f2b8d4b3ced3381a3051b2538"
+      "main.clown": "sha256:e7d76464dafadb7f0703230225ced8f32604a3ea0b4e20eb279f571e321711c1",
+      "meta.toml": "sha256:6f08d7cd77c283f61ca7eee8cf3a2ac3c263c43e015186a240846a25b0079d20"
     },
-    "signature": "n4Fem02i+yn0VQURIDXojGucGmQTf3tW2vDlL7Z6jUZngvvkfckNyOLnXr8gPCljCw56K2nSrgCKHZ+279XpkA==",
+    "signature": "Ip7gg2LH4pJG12xhmgwy5RwMzA6YDMfibPEOlf2A6wAeNMHo7eFqjpbyCDlzxispuuHkkV7lcIDQTv5gxARAKg==",
     "key_version": 1,
-    "signed_at": 1772788251,
+    "signed_at": 1772788377,
     "audit": "PASSED",
     "status": "active",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "last_updated": "2026-03-06",
     "reports": 0
   },
