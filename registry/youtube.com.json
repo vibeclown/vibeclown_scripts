@@ -31,6 +31,36 @@
     "installs": 15
   },
   {
+    "id": "pookyskeekys/codex_publish_smoke_20260306_155828",
+    "name": "Codex Publish Smoke 20260306_155828",
+    "description": "Codex live publish smoke",
+    "author": "pookyskeekys",
+    "gist_id": "ec72e99b0fec431b7c0e89f50058194a",
+    "gist_url": "https://gist.github.com/pookyskeekys/ec72e99b0fec431b7c0e89f50058194a",
+    "entry": "main.clown",
+    "domains": [
+      "youtube.com"
+    ],
+    "permissions": [
+      "inject"
+    ],
+    "files": [
+      "main.clown"
+    ],
+    "hashes": {
+      "main.clown": "sha256:957e13c0732e48fd5496f935894dc93a9da7dcd5eb8ffea52646fdf178cda1d1",
+      "meta.toml": "sha256:7108f488cd0bee671ab8c286a89837ae7dd06862639a635eaa3acfe5a34e18d0"
+    },
+    "signature": "XqcglyhlQBnp4dTSPvP6r2nVCONDcf1q1ykfZvzm+dtTEJh1qFWvUMmae5bAoToTvozs6kGmMyGw39Bue/CpHQ==",
+    "key_version": 1,
+    "signed_at": 1772794710,
+    "audit": "PASSED",
+    "status": "active",
+    "version": "1.0.0",
+    "last_updated": "2026-03-06",
+    "reports": 0
+  },
+  {
     "id": "vibeclownbot/fix_thumbnails",
     "name": "Fix Thumbnails",
     "description": "Normalize YouTube thumbs",
